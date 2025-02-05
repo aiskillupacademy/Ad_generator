@@ -89,7 +89,7 @@ def quality_checker_bot(task, output):
     return result
 
 # Streamlit app
-st.title("System Prompt Generator")
+st.title("Ad Generator")
 
 # Input query
 query = st.text_input("Enter your description for ad:")
